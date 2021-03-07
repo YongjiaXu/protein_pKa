@@ -13,7 +13,7 @@
 
 ## Progress
 - Collected sample data and preprocessed the data; eliminated some irrelevant features.
-- Experimenting with sample data: focus on a single amino acid; calculated the columb force and rearranged the data
+- Experimenting with sample data: focus on a single amino acid; predicted with logistic regression and a simple neural network with 3 hidden layers
 <br></br>
 <hr></hr>
 <pre>Keywords: Machine Learning, pKa Computation, Neural Networks</pre>
